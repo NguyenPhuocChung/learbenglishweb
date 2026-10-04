@@ -6,7 +6,7 @@ export const STORAGE_KEY = "myLearningWords";
 export const AUTH_TOKEN_KEY = "learnEnglishAuthToken";
 export const AUTH_USER_KEY = "learnEnglishUser";
 
-const APP_API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:5000/api";
+const APP_API_BASE = import.meta.env.VITE_API_BASE_URL || "https://leabenglishbe.onrender.com/api";
 
 export async function requestApi(path, options = {}) {
   const headers = { ...options.headers };
