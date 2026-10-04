@@ -13,7 +13,7 @@ import {
 } from "@ant-design/icons";
 import { fetchLearnerProgress, requestApi } from "../services/api";
 
-import "../styles/stories.css";
+import "../styles/Stories.css";
 import MobileBottomNav from "./MobileBottomNav";
 
 function Stories() {
