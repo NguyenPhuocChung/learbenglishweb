@@ -66,7 +66,7 @@ function MobileBottomNav() {
               {item.icon}
             </span>
 
-            <span style={{fontSize:8}} className="mobile-bottom-nav__label">
+            <span className="mobile-bottom-nav__label">
               {item.label}
             </span>
           </button>

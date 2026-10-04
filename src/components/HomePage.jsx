@@ -2090,8 +2090,7 @@ const Home = () => {
           .mobile-bottom-nav {
             position: fixed;
 
-            left: 10px;
-            right: 10px;
+
             bottom: 10px;
 
             height: 65px;
@@ -2151,9 +2150,7 @@ const Home = () => {
             cursor: pointer;
           }
 
-          .mobile-bottom-nav span {
-            font-size: 8px;
-          }
+          
 
           .mobile-bottom-nav
           .mobile-nav-active {

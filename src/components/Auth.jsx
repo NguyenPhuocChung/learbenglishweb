@@ -131,7 +131,7 @@ function Auth() {
 
         if (password.length < 8) {
             setError(
-            "Mật khẩu phải có ít nhất 8 ký tự."
+                "Mật khẩu phải có ít nhất 8 ký tự."
             );
             return;
         }
@@ -229,11 +229,10 @@ function Auth() {
 
                         <button
                             type="button"
-                            className={`auth-tab ${
-                                isLogin
+                            className={`auth-tab ${isLogin
                                     ? "active"
                                     : ""
-                            }`}
+                                }`}
                             onClick={() =>
                                 changeMode("login")
                             }
@@ -244,11 +243,10 @@ function Auth() {
 
                         <button
                             type="button"
-                            className={`auth-tab ${
-                                !isLogin
+                            className={`auth-tab ${!isLogin
                                     ? "active"
                                     : ""
-                            }`}
+                                }`}
                             onClick={() =>
                                 changeMode("register")
                             }
@@ -725,7 +723,8 @@ function Auth() {
                     <span>
                         Học tiếng Anh mỗi ngày
                     </span>
-
+                    <span>          Được tạo bởi <strong>Chung</strong> ❤️
+                    </span>
                 </div>
 
             </div>
