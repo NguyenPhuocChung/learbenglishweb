@@ -13,7 +13,7 @@ import { useNavigate } from "react-router-dom";
 import { loginUser, registerUser, saveAuthSession } from "../services/api";
 
 import logo from "./../assets/logo_english.png";
-import "./../styles/Auth.css";
+import "../styles/Auth.css";
 
 function Auth() {
     const navigate = useNavigate();

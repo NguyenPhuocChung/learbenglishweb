@@ -3,7 +3,7 @@ import { MailOutlined, ArrowLeftOutlined } from "@ant-design/icons";
 import { useNavigate } from "react-router-dom";
 import { requestPasswordReset } from "../services/api";
 
-import "./../styles/ForgotPassword.css";
+import "../styles/ForgotPassword.css";
 
 function ForgotPassword() {
   const navigate = useNavigate();

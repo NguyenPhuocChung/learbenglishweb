@@ -7,7 +7,7 @@ import {
 } from "@ant-design/icons";
 
 import { useLocation, useNavigate } from "react-router-dom";
-import "./../styles/MobileBottomNav.css";
+import "../styles/MobileBottomNav.css";
 const NAV_ITEMS = [
   {
     path: "/",

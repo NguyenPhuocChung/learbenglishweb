@@ -12,7 +12,7 @@ import {
 } from "@ant-design/icons";
 
 import { fetchLearnerVocabulary, updateVocabularyStatus } from "../services/api";
-import "./../styles/Listening.css";
+import "../styles/Listening.css";
 import MobileBottomNav from "./MobileBottomNav";
 
 const DATE_OPTIONS = [

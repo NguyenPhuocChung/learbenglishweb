@@ -20,7 +20,7 @@ import {
   removeLearnerVocabulary,
   updateVocabularyStatus,
 } from "../services/api";
-import "./../styles/Vocabulary.css";
+import "../styles/Vocabulary.css";
 import MobileBottomNav from "./MobileBottomNav";
 
 const STATUS = {

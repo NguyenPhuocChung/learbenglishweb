@@ -19,7 +19,7 @@ import {
 
 import { fetchLearnerVocabulary, updateVocabularyStatus } from "../services/api";
 
-import "./../styles/Review.css";
+import "../styles/Review.css";
 import MobileBottomNav from "./MobileBottomNav";
 
 const shuffle = (array) =>
