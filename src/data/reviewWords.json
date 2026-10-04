@@ -1,0 +1,231 @@
+[
+  {
+    "id": 101,
+    "word": "could",
+    "phonetic": "/kʊd/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "có thể, có khả năng"
+      }
+    ],
+    "tags": ["travel", "sentence"],
+    "status": "mastered",
+    "savedAt": "2026-10-03T08:30:00",
+    "lastReviewedAt": "2026-10-03T09:00:00"
+  },
+  {
+    "id": 102,
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "hành trình, chuyến đi"
+      }
+    ],
+    "tags": ["travel", "vocabulary"],
+    "status": "learning",
+    "savedAt": "2026-10-03T09:10:00",
+    "lastReviewedAt": "2026-10-03T10:00:00"
+  },
+  {
+    "id": 103,
+    "word": "destination",
+    "phonetic": "/ˌdestɪˈneɪʃən/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "điểm đến"
+      }
+    ],
+    "tags": ["travel"],
+    "status": "new",
+    "savedAt": "2026-10-03T10:30:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 104,
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfəl/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "đẹp"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "mastered",
+    "savedAt": "2026-10-02T14:00:00",
+    "lastReviewedAt": "2026-10-03T08:00:00"
+  },
+  {
+    "id": 105,
+    "word": "although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "meanings": [
+      {
+        "type": "Liên từ",
+        "meaning": "mặc dù"
+      }
+    ],
+    "tags": ["grammar", "sentence"],
+    "status": "learning",
+    "savedAt": "2026-10-03T11:30:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 106,
+    "word": "adventure",
+    "phonetic": "/ədˈventʃər/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "cuộc phiêu lưu"
+      }
+    ],
+    "tags": ["travel", "vocabulary"],
+    "status": "new",
+    "savedAt": "2026-10-03T12:00:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 107,
+    "word": "remember",
+    "phonetic": "/rɪˈmembər/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "nhớ, ghi nhớ"
+      }
+    ],
+    "tags": ["daily", "verb"],
+    "status": "learning",
+    "savedAt": "2026-10-01T08:00:00",
+    "lastReviewedAt": "2026-10-02T09:00:00"
+  },
+  {
+    "id": 108,
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːrtənt/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "quan trọng"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "new",
+    "savedAt": "2026-10-03T13:00:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 109,
+    "word": "explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "khám phá"
+      }
+    ],
+    "tags": ["travel", "verb"],
+    "status": "mastered",
+    "savedAt": "2026-10-01T15:00:00",
+    "lastReviewedAt": "2026-10-02T16:00:00"
+  },
+  {
+    "id": 110,
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmftərbəl/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "thoải mái, dễ chịu"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "learning",
+    "savedAt": "2026-09-30T10:00:00",
+    "lastReviewedAt": "2026-10-01T10:00:00"
+  },
+  {
+    "id": 111,
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "kinh nghiệm, trải nghiệm"
+      },
+      {
+        "type": "Động từ",
+        "meaning": "trải nghiệm"
+      }
+    ],
+    "tags": ["travel", "daily"],
+    "status": "new",
+    "savedAt": "2026-10-03T15:00:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 112,
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "đến, tới"
+      }
+    ],
+    "tags": ["travel", "verb"],
+    "status": "mastered",
+    "savedAt": "2026-09-29T09:00:00",
+    "lastReviewedAt": "2026-10-01T09:30:00"
+  },
+  {
+    "id": 113,
+    "word": "prepare",
+    "phonetic": "/prɪˈper/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "chuẩn bị"
+      }
+    ],
+    "tags": ["travel", "verb"],
+    "status": "new",
+    "savedAt": "2026-10-03T16:00:00",
+    "lastReviewedAt": null
+  },
+  {
+    "id": 114,
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "thời tiết"
+      }
+    ],
+    "tags": ["travel", "daily"],
+    "status": "learning",
+    "savedAt": "2026-10-02T16:30:00",
+    "lastReviewedAt": "2026-10-03T07:30:00"
+  },
+  {
+    "id": 115,
+    "word": "exciting",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "thú vị, hào hứng"
+      }
+    ],
+    "tags": ["travel", "adjective"],
+    "status": "new",
+    "savedAt": "2026-10-03T17:00:00",
+    "lastReviewedAt": null
+  }
+]

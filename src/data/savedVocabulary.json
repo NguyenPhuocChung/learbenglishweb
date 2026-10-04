@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "word": "could",
+    "phonetic": "/kʊd/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "có thể, có khả năng"
+      }
+    ],
+    "tags": ["travel", "sentence"],
+    "status": "mastered"
+  },
+  {
+    "id": 102,
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "hành trình, chuyến đi"
+      }
+    ],
+    "tags": ["travel", "vocabulary"],
+    "status": "learning"
+  },
+  {
+    "id": 103,
+    "word": "destination",
+    "phonetic": "/ˌdestɪˈneɪʃən/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "điểm đến"
+      }
+    ],
+    "tags": ["travel"],
+    "status": "new"
+  },
+  {
+    "id": 104,
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfəl/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "đẹp"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "mastered"
+  },
+  {
+    "id": 105,
+    "word": "although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "meanings": [
+      {
+        "type": "Liên từ",
+        "meaning": "mặc dù"
+      }
+    ],
+    "tags": ["grammar", "sentence"],
+    "status": "learning"
+  },
+  {
+    "id": 106,
+    "word": "adventure",
+    "phonetic": "/ədˈventʃər/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "cuộc phiêu lưu"
+      }
+    ],
+    "tags": ["travel", "vocabulary"],
+    "status": "new"
+  },
+  {
+    "id": 107,
+    "word": "remember",
+    "phonetic": "/rɪˈmembər/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "nhớ, ghi nhớ"
+      }
+    ],
+    "tags": ["daily", "verb"],
+    "status": "learning"
+  },
+  {
+    "id": 108,
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːrtənt/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "quan trọng"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "new"
+  },
+  {
+    "id": 109,
+    "word": "explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "khám phá"
+      }
+    ],
+    "tags": ["travel", "verb"],
+    "status": "mastered"
+  },
+  {
+    "id": 110,
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmftərbəl/",
+    "meanings": [
+      {
+        "type": "Tính từ",
+        "meaning": "thoải mái, dễ chịu"
+      }
+    ],
+    "tags": ["daily", "adjective"],
+    "status": "learning"
+  },
+  {
+    "id": 111,
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "meanings": [
+      {
+        "type": "Danh từ",
+        "meaning": "kinh nghiệm, trải nghiệm"
+      },
+      {
+        "type": "Động từ",
+        "meaning": "trải nghiệm"
+      }
+    ],
+    "tags": ["travel", "daily"],
+    "status": "new"
+  },
+  {
+    "id": 112,
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "meanings": [
+      {
+        "type": "Động từ",
+        "meaning": "đến, tới"
+      }
+    ],
+    "tags": ["travel", "verb"],
+    "status": "mastered"
+  }
+]
